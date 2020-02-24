@@ -91,7 +91,7 @@ a:hover, a:focus {
   
   text-align: center;
 
-	box-shadow: 0 0 50px 10px #784383;
+	box-shadow: 0 0 30px 5px #784383;
 
 	font-size: 16px;
 	color: #ffffff;
@@ -212,28 +212,9 @@ a:hover, a:focus {
               url("./img/bg2-el2(50).png") 85% 33%,
               url("./img/bg2-el1(50).png") 20% 50%,
               url("./img/bg2-el3(50).png") 100% 47%;
-
-              
+    
   background-repeat: no-repeat;
 }
-
-/* .contentwrap::after {
-  content: "";
-  background: url("./img/bg1-el1.png") 0% 10%;
-  background-size: -50%;
-  background-repeat: no-repeat;
-}
-
-.contentwrap::after {
-  content: "";
-  background: url("./img/bg1-el2.png") 95% 15%;
-  background-size: 99px;
-  background-repeat: no-repeat;
-} */
-
-
-
-
 
 .paragraph-content {
   margin-top: 22px;
