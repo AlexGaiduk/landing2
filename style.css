@@ -103,6 +103,10 @@ a:hover, a:focus {
 	background-image: linear-gradient(90deg, #854399 0%, #b14599 100%);
 }
 
+.btn-content {
+  box-shadow: 0 0 30px 5px #efdbeb;
+}
+
 .pre-paragraph {
 	font-size: 14px;
 	letter-spacing: 5px;
@@ -474,7 +478,7 @@ a:hover, a:focus {
 
   .controls {
     top: 360px;
-    left: 35%;
+    left: 36%;
     position: absolute;
     z-index: 2;
   }
